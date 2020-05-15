@@ -5,7 +5,7 @@
 Reimagining geological data and enabling accessibility for the future. 
 
 <br>
-**Aims:**
+<b>Aims:</b>
 <br>
 * 1. Creating a space to collate available geotechnical data in Malaysia from SSP S/B. 
 * 2. Having an interactive mapping GUI that can be navigated and searched with geolocation. 
