@@ -1,4 +1,4 @@
-<img src="https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG" alt="Your image title" width="250"/>
+<img src="https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG" alt="Your image title" width="100"/>
 
 # SSP Geotechnics - Rocksies 
 
