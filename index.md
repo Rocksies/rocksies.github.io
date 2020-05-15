@@ -1,4 +1,4 @@
-<img src="https://github.com/Rocksies/rocksies.github.io/blob/soil-profile/Logo.JPG" alt="test image size" height="50%" width="50%">
+<img src="https://github.com/Rocksies/rocksies.github.io/blob/soil-profile/Logo.JPG" alt="test image size" height="20%" width="20%">
 
 # SSP Geotechnics - Rocksies 
 
