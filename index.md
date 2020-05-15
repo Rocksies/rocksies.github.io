@@ -1,4 +1,4 @@
-<img src="https://github.com/Rocksies/rocksies.github.io/blob/soil-profile/Logo.JPG" width="256" height="180" title="SSPG Logo">
+![](soil-profile/Logo.JPG)
 
 # SSP Geotechnics - Rocksies 
 
