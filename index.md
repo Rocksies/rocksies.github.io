@@ -1,4 +1,4 @@
-![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG width="400" height="790") 
+![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG & width="400" height="790") 
 
 # SSP Geotechnics - Rocksies 
 
