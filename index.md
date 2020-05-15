@@ -5,7 +5,6 @@
 **About:**
 <br>
 Reimagining geological data and enabling accessibility for the future. 
-
 <br>
 
 **Aims:** 
