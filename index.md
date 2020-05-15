@@ -1,5 +1,4 @@
-![Logo](logo.jpg)
-Format: ![Alt Text](url)
+![Alt text](relative/path/to/Logo.jpg?raw=true "Title")
 # SSP Geotechnics - Rocksies 
 
 **About:**
