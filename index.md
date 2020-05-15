@@ -1,4 +1,4 @@
-![](soil-profile/Logo.JPG)
+![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG)
 
 # SSP Geotechnics - Rocksies 
 
