@@ -1,7 +1,4 @@
-![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG)
-![test image size](/master/Logo.JPG){:class="img-responsive"}
-![test image size](/master/Logo.JPG){:height="50%" width="50%"}
-![test image size](/master/Logo.JPG){:height="700px" width="400px"}
+<img src="https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG" alt="Your image title" width="250"/>
 
 # SSP Geotechnics - Rocksies 
 
