@@ -1,4 +1,7 @@
-![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG){:height="50%" width="50%"}
+![alt text](https://github.com/Rocksies/rocksies.github.io/blob/master/Logo.JPG)
+![test image size](/master/Logo.JPG){:class="img-responsive"}
+![test image size](/master/Logo.JPG){:height="50%" width="50%"}
+![test image size](/master/Logo.JPG){:height="700px" width="400px"}
 
 # SSP Geotechnics - Rocksies 
 
