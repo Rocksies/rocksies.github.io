@@ -15,6 +15,7 @@ Reimagining geological data and enabling accessibility for the future.
 
 <br> 
 Last updated: 15th May 2020 
+<br> 
 
 <html>
 <head>
