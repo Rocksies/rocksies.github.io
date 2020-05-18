@@ -21,7 +21,7 @@ Last updated: 15th May 2020
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">   
-  <meta name="viewport" content="initial-scale=1.5, maximum-scale=1.5,user-scalable=no">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=yes">
   <title>Basemaps</title>
   <link rel="shortcut icon" href="//esri.github.io/quickstart-map-js/images/favicon.ico">
   <!-- ArcGIS API for JavaScript CSS-->
